@@ -31,7 +31,7 @@
 ---
 ### `Built-in tests` :
 > https://twig.symfony.com/doc/2.x/tests/index.html
-* `{% if variable is test %}`
+* `{% if variable is (not) test %}`
     * empty : Test si une variable est vide
     * defined : Test si une variable est défini
     * ...
