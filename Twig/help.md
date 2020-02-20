@@ -12,7 +12,7 @@
         * `lower` : aaa`
         * `title` : Je Suis Un Titre
         * `length` : Longueur chc
-        * `escape("")` ou `e("")` :  Echapper du code HTML
+        * `escape('')` ou `e('')` :  Echapper du code HTML
             > https://twig.symfony.com/doc/2.x/filters/escape.html
         * ...
     
