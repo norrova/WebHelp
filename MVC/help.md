@@ -1,5 +1,5 @@
 # `MVC`
-> `Edit by Norro valentin` 
+> `Edited by Norro valentin` 
 
 > Modèle, Vue, Contrôleur
 
