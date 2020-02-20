@@ -1,6 +1,6 @@
 # Twig
 
-> `Edit by Norro valentin`
+> `Edited by Norro valentin`
 
 > Moteur de templating
 
