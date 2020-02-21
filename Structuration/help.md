@@ -2,7 +2,7 @@
 
 > `Edited by Norro valentin` 
 
-## Dossiers
+## `Dossiers` :
 
 * `bin` : Console Symfony
 * `config` : Configuration du projet
