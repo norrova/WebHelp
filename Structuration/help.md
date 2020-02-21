@@ -6,7 +6,7 @@
 
 * `bin` : Console Symfony
 * `config` : Configuration du projet
-* `public` : Dossier public, les utilisateurs pourront y accéder 
+* `public` : Dossier public
     * `Contient` : Javascript, Cascading Style Sheets, Pictures...
 * `src` : Dossier source
     * `Contient` : Modèle, Vue, Contrôleur
