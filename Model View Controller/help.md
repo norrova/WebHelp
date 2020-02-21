@@ -4,7 +4,7 @@
 > Modèle, Vue, Contrôleur
 
 ## `Comprendre` :
-  * `Modèle : Base de donnée`
+  * `Modèle : Base de données`
     > https://symfony.com/doc/current/doctrine.html
     * Récupère les données brutes
     * Requête SQL
