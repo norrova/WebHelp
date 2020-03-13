@@ -23,6 +23,10 @@
     * `Escape Block` : `{% autoescape false|true(base)} ... {% endautoescape %}`
         > https://twig.symfony.com/doc/2.x/filters/escape.html
 * `{# commentary #}` : Commentaire
+
+### `Block` :
+---
+
 ---
 ### `Condition` :
 > https://twig.symfony.com/doc/3.x/tags/if.html
